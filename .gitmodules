@@ -1,0 +1,3 @@
+[submodule "Crazyflie_AAA"]
+	path = Crazyflie_AAA
+	url = https://github.com/Alex0021/Crazyflie_AAA.git
