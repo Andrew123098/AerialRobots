@@ -1,3 +1,6 @@
 [submodule "Crazyflie_AAA"]
 	path = Crazyflie_AAA
 	url = https://github.com/Alex0021/Crazyflie_AAA.git
+[submodule "crazyflie-lib-python"]
+	path = crazyflie-lib-python
+	url = https://github.com/bitcraze/crazyflie-lib-python.git
